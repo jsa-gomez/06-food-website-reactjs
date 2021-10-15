@@ -1,0 +1,11 @@
+.nav-link:hover{
+  color: #008000 !important;
+}
+
+.img-food{
+  transition: 0.3s;
+}
+
+.img-food:hover{
+  transform: scale(1.05);
+}
